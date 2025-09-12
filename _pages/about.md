@@ -31,8 +31,7 @@ Experience
 * Created bash scripts to deploy automated trading strategies, refactoring of the codebase, and enhanced code for monitoring of XRP repurchases across exchanges
 
 **Binance**, Macro Research Analyst Intern
-*	Published research reports on macro trends with a monthly viewership of over 100,000, performed data analysis, and prepared the [Institutional Crypto Outlook Survey](https://www.binance.com/en/research/analysis/institutional-crypto-outlook-survey-2023
-) which involved over 200 global institutional investors 
+*	Published research reports on macro trends ([Account Abstraction](https://www.binance.com/en/research/analysis/a-primer-on-account-abstraction), [Financialization of NFTs](https://www.binance.com/en/research/analysis/financialization-of-nfts)) with a monthly viewership of over 100,000, performed data analysis, prepared the [Institutional Crypto Outlook Survey](https://research.binance.com/en/analysis/institutional-crypto-outlook-survey-2023) and [H1 Crypto Report](https://public.bnbstatic.com/static/files/research/half-year-2023.pdf)
 *	Monitored market news and led the [Monthly Market Insights](https://www.binance.com/en/research/analysis/monthly-market-insights-2023-05) edition to visualize trends and movements, with macroeconomic signals
 
 
